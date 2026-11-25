@@ -1,5 +1,13 @@
 # Modular Stage Pedalboard
 
+## ⚠️ Disclaimer & Limitation of Liability
+
+This project is provided **"as is"**, without warranty of any kind, express or implied. All schematics, PCB layouts, mechanical drawings, calculations, and Bills of Materials (BOM) are shared for educational and DIY reference purposes only.
+
+* **No Guarantee of Accuracy:** Designs, component ratings, power budgets, and thermal calculations may contain errors, omissions, or unverified sections (specifically noted as unreviewed).
+* **User Responsibility:** It is strictly the **user's own responsibility** to independently verify all circuits, component datasheets, voltage/current ratings, pinouts, and safety requirements before ordering components, manufacturing PCBs, or assembling hardware.
+* **Limitation of Liability:** The author assumes **no responsibility or liability** for any damage to equipment, components, amplifiers, power supplies, personal injury, or any other loss resulting from the use, modification, or construction of these designs. Build and use at your own risk.
+
 Complete engineering documentation, schematics, and build resources for a modular, SELV-powered (18V DC) guitar pedalboard. Includes KiCad 10 specifications, 50 monochrome SVG circuit diagrams, mechanical standards for 19" rack rails and casemaker enclosures, a 44-cable Molex harness map, 16 core effect modules, 23 swappable modules, and complete Bills of Materials (BOM).
 
 > **Language Note:** Please note that the underlying project documentation, schematics, and component notes are written primarily in **Swedish** (with standard international electronic designations and part numbers).
